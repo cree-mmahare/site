@@ -5,11 +5,11 @@
 
 @font-face {
   font-family: "Flaticon-green-2";
-  src: url("https://cree-mmahare.github.io/site/wp-content/plugins/greenova-core/vc-flaticon/assets/Flaticon-green-2.eot");
-  src: url("https://cree-mmahare.github.io/site/wp-content/plugins/greenova-core/vc-flaticon/assets/Flaticon-green-2.eot#iefix") format("embedded-opentype"),
-       url("https://cree-mmahare.github.io/site/wp-content/plugins/greenova-core/vc-flaticon/assets/Flaticon-green-2.woff") format("woff"),
-       url("https://cree-mmahare.github.io/site/wp-content/plugins/greenova-core/vc-flaticon/assets/Flaticon-green-2.ttf") format("truetype"),
-       url("https://cree-mmahare.github.io/site/wp-content/plugins/greenova-core/vc-flaticon/assets/Flaticon-green-2.svg#Flaticon") format("svg");
+  src: url("https://cree-mmahare.github.io/cree/wp-content/plugins/greenova-core/vc-flaticon/assets/Flaticon-green-2.eot");
+  src: url("https://cree-mmahare.github.io/cree/wp-content/plugins/greenova-core/vc-flaticon/assets/Flaticon-green-2.eot#iefix") format("embedded-opentype"),
+       url("https://cree-mmahare.github.io/cree/wp-content/plugins/greenova-core/vc-flaticon/assets/Flaticon-green-2.woff") format("woff"),
+       url("https://cree-mmahare.github.io/cree/wp-content/plugins/greenova-core/vc-flaticon/assets/Flaticon-green-2.ttf") format("truetype"),
+       url("https://cree-mmahare.github.io/cree/wp-content/plugins/greenova-core/vc-flaticon/assets/Flaticon-green-2.svg#Flaticon") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "Flaticon-green-2";
-    src: url("https://cree-mmahare.github.io/site/wp-content/plugins/greenova-core/vc-flaticon/assets/Flaticon-green-2.svg#Flaticon") format("svg");
+    src: url("https://cree-mmahare.github.io/cree/wp-content/plugins/greenova-core/vc-flaticon/assets/Flaticon-green-2.svg#Flaticon") format("svg");
   }
 }
 

@@ -9,34 +9,34 @@
 
 <channel>
 	<title>CREE</title>
-	<atom:link href="https://cree-mmahare.github.io/site/feed/" rel="self" type="application/rss+xml" />
-	<link>https://cree-mmahare.github.io/site</link>
+	<atom:link href="https://cree-mmahare.github.io/cree/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cree-mmahare.github.io/cree</link>
 	<description></description>
-	<lastBuildDate>Fri, 30 Aug 2024 18:38:30 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 09 Sep 2024 11:35:32 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
-	<url>https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/cropped-LOGO-CREE4-32x32.jpg</url>
+	<url>https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/cropped-LOGO-CREE4-32x32.jpg</url>
 	<title>CREE</title>
-	<link>https://cree-mmahare.github.io/site</link>
+	<link>https://cree-mmahare.github.io/cree</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>LES ETAPES DE MISE EN ŒUVRE DE L’ErEDD</title>
-		<link>https://cree-mmahare.github.io/site/les-etapes-de-mise-en-oeuvre-de-leredd/</link>
+		<link>https://cree-mmahare.github.io/cree/les-etapes-de-mise-en-oeuvre-de-leredd/</link>
 		
 		<dc:creator><![CDATA[voara]]></dc:creator>
 		<pubDate>Fri, 27 Jul 2018 07:21:34 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://cree-mmahare.github.io/site/?p=271</guid>
+		<guid isPermaLink="false">https://cree-mmahare.github.io/cree/?p=271</guid>
 
-					<description><![CDATA[Diagnostique au niveau des interlocuteur (élève, enseignant, chef d’établissement, parent d’élève et d’autre) ⦁ Diagnostic comportemental ⦁ Diagnostic environnemental ⦁ Formation déjà faites par les enseignants à valoriser ⦁ Système de collaboration : école, parent, partenaire Conception d’un module de formation et contextualisation du KIT MAD’ErE Contextualisation suivant les besoins, es problèmes environnementaux constatés, les réalités, les [&#8230;]]]></description>
+					<description><![CDATA[Diagnostique au niveau des interlocuteur (élève, enseignant, chef d’établissement, parents d’élève et d’autre) ⦁ Diagnostic comportemental. ⦁ Diagnostic environnemental. ⦁ Formation déjà faites par les enseignants à valoriser. ⦁ Système de collaboration : école, parents, partenaire. Conception d’un module de formation et contextualisation du KIT MAD’ErE Contextualisation suivant les besoins, les problèmes environnementaux constatés, les réalités, les [&#8230;]]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="271" class="elementor elementor-271">
 				<div class="elementor-element elementor-element-7507eaa e-con-full e-flex e-con e-parent" data-id="7507eaa" data-element_type="container">
 				<div class="elementor-element elementor-element-626ac67 elementor-widget__width-initial elementor-widget elementor-widget-ile-item-lists-elementor-widget" data-id="626ac67" data-element_type="widget" data-widget_type="ile-item-lists-elementor-widget.default">
@@ -44,69 +44,58 @@
 			<!-- Start Material Bullet Style -->
 <div class="ile-material-bullet-style" style="direction:ltr;">
     <div class="ile-container-holder">
-            <div class="ile-container-row">                <i class="ile-icon rtsb-icon rtsb-icon-check-alt" style="color:#ffffff; background-color:#61CE70"></i>
+            <div class="ile-container-row">                <i class="ile-icon far fa-check-circle" style="color:#ffffff; background-color:#61CE70"></i>
                         <div class="ile-content-box" style="background-color:#F2F1F1;">
-                <h2 class="ile-title" style="color:#000000;">Diagnostique au niveau des interlocuteur (élève, enseignant, chef d’établissement, parent d’élève et d’autre)</h2>
-                <p class="ile-content" style="color:#000000;">⦁	Diagnostic comportemental<br>
-⦁	Diagnostic environnemental <br>
-⦁	Formation déjà faites par les enseignants à valoriser <br>
-⦁	Système de collaboration : école, parent, partenaire <br>
+                <h2 class="ile-title" style="color:#000000;">Diagnostique au niveau des interlocuteur (élève, enseignant, chef d’établissement, parents d’élève et d’autre)</h2>
+                <p class="ile-content" style="color:#000000;">⦁	Diagnostic comportemental.<br>
+⦁	Diagnostic environnemental.<br>
+⦁	Formation déjà faites par les enseignants à valoriser. <br>
+⦁	Système de collaboration : école, parents, partenaire. <br>
 </p>
             </div>
         </div>
-                <div class="ile-container-row">                <i class="ile-icon rtsb-icon rtsb-icon-check-alt" style="color:#ffffff; background-color:#61CE70"></i>
+                <div class="ile-container-row">                <i class="ile-icon far fa-check-circle" style="color:#ffffff; background-color:#61CE70"></i>
                         <div class="ile-content-box" style="background-color:#F2F1F1;">
                 <h2 class="ile-title" style="color:#000000;">Conception d’un module de formation et contextualisation du KIT MAD’ErE</h2>
-                <p class="ile-content" style="color:#000000;">Contextualisation suivant les besoins, es problèmes environnementaux constatés, les réalités, les dynamismes
+                <p class="ile-content" style="color:#000000;">Contextualisation suivant les besoins, les problèmes environnementaux constatés, les réalités, les dynamismes.
 </p>
             </div>
         </div>
-                <div class="ile-container-row">                <i class="ile-icon rtsb-icon rtsb-icon-check-alt" style="color:#ffffff; background-color:#61CE70"></i>
+                <div class="ile-container-row">                <i class="ile-icon far fa-check-circle" style="color:#ffffff; background-color:#61CE70"></i>
                         <div class="ile-content-box" style="background-color:#F2F1F1;">
                 <h2 class="ile-title" style="color:#000000;">Formation des enseignants </h2>
-                <p class="ile-content" style="color:#000000;">⦁	Formation sur les thématiques environnementales : l’environnement, les ressources naturelles, les problématiques environnementales, le changement climatique, les solutions ou alternatives pour faire face à la dégradation de l’environnement<br>
-⦁	Formation sur la pédagogie/andragogie : DD,ODD,ErEDD, C4D,utilisation du KIT MAD’ErE, simulation et pratique de classe 
+                <p class="ile-content" style="color:#000000;">⦁	Formation sur les thématiques environnementales : l’environnement, les ressources naturelles, les problématiques environnementales, le changement climatique, les solutions ou alternatives pour faire face à la dégradation de l’environnement.<br>
+⦁	Formation sur la pédagogie/andragogie : DD,ODD,ErEDD, C4D,utilisation du KIT MAD’ErE, simulation et pratique de classe.
 </p>
             </div>
         </div>
-                <div class="ile-container-row">                <i class="ile-icon rtsb-icon rtsb-icon-check-alt" style="color:#ffffff; background-color:#61CE70"></i>
+                <div class="ile-container-row">                <i class="ile-icon far fa-check-circle" style="color:#ffffff; background-color:#61CE70"></i>
                         <div class="ile-content-box" style="background-color:#F2F1F1;">
                 <h2 class="ile-title" style="color:#000000;">Mise en place du plan d’action environnementale et les campagnes de sensibilisation </h2>
-                <p class="ile-content" style="color:#000000;">⦁	Elaboration du PAE à partir des problématiques environnementales <br>
-⦁	Initiation sur les bonnes pratiques et reflexes environnementales <br>
+                <p class="ile-content" style="color:#000000;">⦁	Elaboration du PAE à partir des problématiques environnementales. <br>
+⦁	Initiation sur les bonnes pratiques et reflexes environnementales.<br>
 ⦁	Acquisition des valeurs environnementales (soatoavina) : responsabilité, solidaire, …<br>
 </p>
             </div>
         </div>
-                <div class="ile-container-row">                <i class="ile-icon rtsb-icon rtsb-icon-check-alt" style="color:#ffffff; background-color:#61CE70"></i>
+                <div class="ile-container-row">                <i class="ile-icon far fa-check-circle" style="color:#ffffff; background-color:#61CE70"></i>
                         <div class="ile-content-box" style="background-color:#F2F1F1;">
                 <h2 class="ile-title" style="color:#000000;">Suivi et accompagnement de proximité </h2>
-                <p class="ile-content" style="color:#000000;">⦁	Renforcement des capacités au niveau des sites <br>
-⦁	Identification et résolution des difficultés rencontrés <br>
-⦁	Etat d’avancement du plan d’action <br>
-⦁	Echanges <br>
-⦁	Sensibilisation et animation 
+                <p class="ile-content" style="color:#000000;">⦁	Renforcement des capacités au niveau des sites. <br>
+⦁	Identification et résolution des difficultés rencontrés. <br>
+⦁	Etat d’avancement du plan d’action. <br>
+⦁	Echanges. <br>
+⦁	Sensibilisation et animation. 
 </p>
             </div>
         </div>
-                <div class="ile-container-row">                <i class="ile-icon rtsb-icon rtsb-icon-check-alt" style="color:#ffffff; background-color:#61CE70"></i>
-                        <div class="ile-content-box" style="background-color:#F2F1F1;">
-                <h2 class="ile-title" style="color:#000000;">Suivi et accompagnement de proximité </h2>
-                <p class="ile-content" style="color:#000000;">⦁	Renforcement des capacités au niveau des sites <br>
-⦁	Identification et résolution des difficultés rencontrés <br>
-⦁	Etat d’avancement du plan d’action <br>
-⦁	Echanges <br>
-⦁	Sensibilisation et animation 
-</p>
-            </div>
-        </div>
-                <div class="ile-container-row">                <i class="ile-icon rtsb-icon rtsb-icon-check-alt" style="color:#ffffff; background-color:#61CE70"></i>
+                <div class="ile-container-row">                <i class="ile-icon far fa-check-circle" style="color:#ffffff; background-color:#61CE70"></i>
                         <div class="ile-content-box" style="background-color:#F2F1F1;">
                 <h2 class="ile-title" style="color:#000000;">Evaluation et capitalisation des acquis </h2>
-                <p class="ile-content" style="color:#000000;">⦁	Appropriation du KIT MAD’ErE<br>
-⦁	Intégration interdisciplinaire des thématiques environnementaux <br>
-⦁	Vérification des fiches pédagogiques <br>
-⦁	Evaluation du plan d’action : entretien du jardin potager, arbre fruitiers, arbre reboisée,<br>
+                <p class="ile-content" style="color:#000000;">⦁	Appropriation du KIT MAD’ErE.<br>
+⦁	Intégration interdisciplinaire des thématiques environnementaux. <br>
+⦁	Vérification des fiches pédagogiques.<br>
+⦁	Evaluation du plan d’action : entretien du jardin potager, arbre fruitiers, arbre reboisée.<br>
 ⦁	Success story (vidéo, poster, etc…)
 </p>
             </div>
@@ -125,22 +114,22 @@
 .elementor-image-gallery .gallery-item{display:inline-block;text-align:center;vertical-align:top;width:100%;max-width:100%;margin:0 auto}.elementor-image-gallery .gallery-item img{margin:0 auto}.elementor-image-gallery .gallery-item .gallery-caption{margin:0}.elementor-image-gallery figure img{display:block}.elementor-image-gallery figure figcaption{width:100%}.gallery-spacing-custom .elementor-image-gallery .gallery-icon{padding:0}@media (min-width:768px){.elementor-image-gallery .gallery-columns-2 .gallery-item{max-width:50%}.elementor-image-gallery .gallery-columns-3 .gallery-item{max-width:33.33%}.elementor-image-gallery .gallery-columns-4 .gallery-item{max-width:25%}.elementor-image-gallery .gallery-columns-5 .gallery-item{max-width:20%}.elementor-image-gallery .gallery-columns-6 .gallery-item{max-width:16.666%}.elementor-image-gallery .gallery-columns-7 .gallery-item{max-width:14.28%}.elementor-image-gallery .gallery-columns-8 .gallery-item{max-width:12.5%}.elementor-image-gallery .gallery-columns-9 .gallery-item{max-width:11.11%}.elementor-image-gallery .gallery-columns-10 .gallery-item{max-width:10%}}@media (min-width:480px) and (max-width:767px){.elementor-image-gallery .gallery.gallery-columns-2 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-3 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-4 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-5 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-6 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-7 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-8 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-9 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-10 .gallery-item{max-width:50%}}@media (max-width:479px){.elementor-image-gallery .gallery.gallery-columns-2 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-3 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-4 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-5 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-6 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-7 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-8 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-9 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-10 .gallery-item{max-width:100%}}</style>		<div class="elementor-image-gallery">
 			<div id='gallery-1' class='gallery galleryid-271 gallery-columns-6 gallery-size-woocommerce_gallery_thumbnail'><figure class='gallery-item'>
 			<div class='gallery-icon landscape'>
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="e0f7005" data-elementor-lightbox-title="IMG_2578" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NDY0NSwidXJsIjoiaHR0cDpcL1wvMTI3LjAuMC4xXC9DUkVFXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDE4XC8wN1wvSU1HXzI1Nzgtc2NhbGVkLmpwZyIsInNsaWRlc2hvdyI6ImUwZjcwMDUifQ%3D%3D" href='https://cree-mmahare.github.io/site/wp-content/uploads/2018/07/IMG_2578-scaled.jpg'><img decoding="async" width="100" height="100" src="https://cree-mmahare.github.io/site/wp-content/uploads/2018/07/IMG_2578-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="https://cree-mmahare.github.io/site/wp-content/uploads/2018/07/IMG_2578-100x100.jpg 100w, https://cree-mmahare.github.io/site/wp-content/uploads/2018/07/IMG_2578-150x150.jpg 150w, https://cree-mmahare.github.io/site/wp-content/uploads/2018/07/IMG_2578-80x80.jpg 80w, https://cree-mmahare.github.io/site/wp-content/uploads/2018/07/IMG_2578-370x370.jpg 370w, https://cree-mmahare.github.io/site/wp-content/uploads/2018/07/IMG_2578-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" /></a>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="e0f7005" data-elementor-lightbox-title="IMG_2578" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NDY0NSwidXJsIjoiaHR0cDpcL1wvMTI3LjAuMC4xXC9DUkVFXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDE4XC8wN1wvSU1HXzI1Nzgtc2NhbGVkLmpwZyIsInNsaWRlc2hvdyI6ImUwZjcwMDUifQ%3D%3D" href='https://cree-mmahare.github.io/cree/wp-content/uploads/2018/07/IMG_2578-scaled.jpg'><img decoding="async" width="100" height="100" src="https://cree-mmahare.github.io/cree/wp-content/uploads/2018/07/IMG_2578-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="https://cree-mmahare.github.io/cree/wp-content/uploads/2018/07/IMG_2578-100x100.jpg 100w, https://cree-mmahare.github.io/cree/wp-content/uploads/2018/07/IMG_2578-150x150.jpg 150w, https://cree-mmahare.github.io/cree/wp-content/uploads/2018/07/IMG_2578-80x80.jpg 80w, https://cree-mmahare.github.io/cree/wp-content/uploads/2018/07/IMG_2578-370x370.jpg 370w, https://cree-mmahare.github.io/cree/wp-content/uploads/2018/07/IMG_2578-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" /></a>
 			</div></figure><figure class='gallery-item'>
 			<div class='gallery-icon landscape'>
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="e0f7005" data-elementor-lightbox-title="IMG_3131" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NDYxNiwidXJsIjoiaHR0cDpcL1wvMTI3LjAuMC4xXC9DUkVFXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wOFwvSU1HXzMxMzEtc2NhbGVkLmpwZyIsInNsaWRlc2hvdyI6ImUwZjcwMDUifQ%3D%3D" href='https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/IMG_3131-scaled.jpg'><img decoding="async" width="100" height="100" src="https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/IMG_3131-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/IMG_3131-100x100.jpg 100w, https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/IMG_3131-150x150.jpg 150w, https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/IMG_3131-80x80.jpg 80w, https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/IMG_3131-370x370.jpg 370w, https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/IMG_3131-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" /></a>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="e0f7005" data-elementor-lightbox-title="IMG_3131" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NDYxNiwidXJsIjoiaHR0cDpcL1wvMTI3LjAuMC4xXC9DUkVFXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wOFwvSU1HXzMxMzEtc2NhbGVkLmpwZyIsInNsaWRlc2hvdyI6ImUwZjcwMDUifQ%3D%3D" href='https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/IMG_3131-scaled.jpg'><img decoding="async" width="100" height="100" src="https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/IMG_3131-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/IMG_3131-100x100.jpg 100w, https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/IMG_3131-150x150.jpg 150w, https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/IMG_3131-80x80.jpg 80w, https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/IMG_3131-370x370.jpg 370w, https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/IMG_3131-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" /></a>
 			</div></figure><figure class='gallery-item'>
 			<div class='gallery-icon landscape'>
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="e0f7005" data-elementor-lightbox-title="IMG_0425" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NDYxNywidXJsIjoiaHR0cDpcL1wvMTI3LjAuMC4xXC9DUkVFXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wOFwvSU1HXzA0MjUtc2NhbGVkLmpwZyIsInNsaWRlc2hvdyI6ImUwZjcwMDUifQ%3D%3D" href='https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/IMG_0425-scaled.jpg'><img decoding="async" width="100" height="100" src="https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/IMG_0425-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/IMG_0425-100x100.jpg 100w, https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/IMG_0425-150x150.jpg 150w, https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/IMG_0425-80x80.jpg 80w, https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/IMG_0425-370x370.jpg 370w, https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/IMG_0425-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" /></a>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="e0f7005" data-elementor-lightbox-title="IMG_0425" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NDYxNywidXJsIjoiaHR0cDpcL1wvMTI3LjAuMC4xXC9DUkVFXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wOFwvSU1HXzA0MjUtc2NhbGVkLmpwZyIsInNsaWRlc2hvdyI6ImUwZjcwMDUifQ%3D%3D" href='https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/IMG_0425-scaled.jpg'><img decoding="async" width="100" height="100" src="https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/IMG_0425-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/IMG_0425-100x100.jpg 100w, https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/IMG_0425-150x150.jpg 150w, https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/IMG_0425-80x80.jpg 80w, https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/IMG_0425-370x370.jpg 370w, https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/IMG_0425-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" /></a>
 			</div></figure><figure class='gallery-item'>
 			<div class='gallery-icon landscape'>
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="e0f7005" data-elementor-lightbox-title="IMG_4676" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NDYxOCwidXJsIjoiaHR0cDpcL1wvMTI3LjAuMC4xXC9DUkVFXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wOFwvSU1HXzQ2NzYtc2NhbGVkLmpwZyIsInNsaWRlc2hvdyI6ImUwZjcwMDUifQ%3D%3D" href='https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/IMG_4676-scaled.jpg'><img loading="lazy" decoding="async" width="100" height="100" src="https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/IMG_4676-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/IMG_4676-100x100.jpg 100w, https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/IMG_4676-150x150.jpg 150w, https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/IMG_4676-80x80.jpg 80w, https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/IMG_4676-370x370.jpg 370w, https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/IMG_4676-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" /></a>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="e0f7005" data-elementor-lightbox-title="IMG_4676" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NDYxOCwidXJsIjoiaHR0cDpcL1wvMTI3LjAuMC4xXC9DUkVFXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wOFwvSU1HXzQ2NzYtc2NhbGVkLmpwZyIsInNsaWRlc2hvdyI6ImUwZjcwMDUifQ%3D%3D" href='https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/IMG_4676-scaled.jpg'><img loading="lazy" decoding="async" width="100" height="100" src="https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/IMG_4676-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/IMG_4676-100x100.jpg 100w, https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/IMG_4676-150x150.jpg 150w, https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/IMG_4676-80x80.jpg 80w, https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/IMG_4676-370x370.jpg 370w, https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/IMG_4676-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" /></a>
 			</div></figure><figure class='gallery-item'>
 			<div class='gallery-icon landscape'>
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="e0f7005" data-elementor-lightbox-title="IMG_4202" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NDYyMiwidXJsIjoiaHR0cDpcL1wvMTI3LjAuMC4xXC9DUkVFXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wOFwvSU1HXzQyMDItc2NhbGVkLmpwZyIsInNsaWRlc2hvdyI6ImUwZjcwMDUifQ%3D%3D" href='https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/IMG_4202-scaled.jpg'><img loading="lazy" decoding="async" width="100" height="100" src="https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/IMG_4202-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/IMG_4202-100x100.jpg 100w, https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/IMG_4202-150x150.jpg 150w, https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/IMG_4202-80x80.jpg 80w, https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/IMG_4202-370x370.jpg 370w, https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/IMG_4202-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" /></a>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="e0f7005" data-elementor-lightbox-title="IMG_4202" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NDYyMiwidXJsIjoiaHR0cDpcL1wvMTI3LjAuMC4xXC9DUkVFXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wOFwvSU1HXzQyMDItc2NhbGVkLmpwZyIsInNsaWRlc2hvdyI6ImUwZjcwMDUifQ%3D%3D" href='https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/IMG_4202-scaled.jpg'><img loading="lazy" decoding="async" width="100" height="100" src="https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/IMG_4202-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/IMG_4202-100x100.jpg 100w, https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/IMG_4202-150x150.jpg 150w, https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/IMG_4202-80x80.jpg 80w, https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/IMG_4202-370x370.jpg 370w, https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/IMG_4202-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" /></a>
 			</div></figure><figure class='gallery-item'>
 			<div class='gallery-icon landscape'>
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="e0f7005" data-elementor-lightbox-title="IMG_5659" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NDYyMSwidXJsIjoiaHR0cDpcL1wvMTI3LjAuMC4xXC9DUkVFXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wOFwvSU1HXzU2NTktc2NhbGVkLmpwZyIsInNsaWRlc2hvdyI6ImUwZjcwMDUifQ%3D%3D" href='https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/IMG_5659-scaled.jpg'><img loading="lazy" decoding="async" width="100" height="100" src="https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/IMG_5659-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/IMG_5659-100x100.jpg 100w, https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/IMG_5659-150x150.jpg 150w, https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/IMG_5659-80x80.jpg 80w, https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/IMG_5659-370x370.jpg 370w, https://cree-mmahare.github.io/site/wp-content/uploads/2024/08/IMG_5659-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" /></a>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="e0f7005" data-elementor-lightbox-title="IMG_5659" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6NDYyMSwidXJsIjoiaHR0cDpcL1wvMTI3LjAuMC4xXC9DUkVFXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wOFwvSU1HXzU2NTktc2NhbGVkLmpwZyIsInNsaWRlc2hvdyI6ImUwZjcwMDUifQ%3D%3D" href='https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/IMG_5659-scaled.jpg'><img loading="lazy" decoding="async" width="100" height="100" src="https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/IMG_5659-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" srcset="https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/IMG_5659-100x100.jpg 100w, https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/IMG_5659-150x150.jpg 150w, https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/IMG_5659-80x80.jpg 80w, https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/IMG_5659-370x370.jpg 370w, https://cree-mmahare.github.io/cree/wp-content/uploads/2024/08/IMG_5659-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" /></a>
 			</div></figure>
 		</div>
 		</div>

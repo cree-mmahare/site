@@ -3567,7 +3567,7 @@ transform-origin: 0 -110px 0; */
 
 .rt-testimonial-slider-7 .owl-item .tlp-tm-content-wrapper .item-content:before {
     content: '';
-    background: url(https://cree-mmahare.github.io/site/wp-content/themes/greenova/assets/img/qutation_1.png) no-repeat;
+    background: url(https://cree-mmahare.github.io/cree/wp-content/themes/greenova/assets/img/qutation_1.png) no-repeat;
     height: 26px;
     width: 36px;
     position: absolute;
@@ -3769,7 +3769,7 @@ transform-origin: 0 -110px 0; */
     right: 0;
     top: -8px;
     height: 15px;
-    background-image: url(https://cree-mmahare.github.io/site/wp-content/themes/greenova/assets/img/client_top_bg.png);
+    background-image: url(https://cree-mmahare.github.io/cree/wp-content/themes/greenova/assets/img/client_top_bg.png);
     background-repeat: repeat-x;
 }
 
@@ -3780,7 +3780,7 @@ transform-origin: 0 -110px 0; */
     right: 0;
     bottom: -8px;
     height: 15px;
-    background-image: url(https://cree-mmahare.github.io/site/wp-content/themes/greenova/assets/img/client_bottom_bg.png);
+    background-image: url(https://cree-mmahare.github.io/cree/wp-content/themes/greenova/assets/img/client_bottom_bg.png);
     background-repeat: repeat-x;
 }
 
@@ -6700,7 +6700,7 @@ transform-origin: 0 -110px 0; */
 }
 
 .rt-info-text-4 .service-box:hover {
-    /*background: url(https://cree-mmahare.github.io/site/wp-content/themes/greenova/assets/img/service-box-back.png);
+    /*background: url(https://cree-mmahare.github.io/cree/wp-content/themes/greenova/assets/img/service-box-back.png);
 	background-repeat: no-repeat;
 	background-position: center;
 	transition: all 0.3s ease-out; */
